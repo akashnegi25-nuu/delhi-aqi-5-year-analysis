@@ -53,7 +53,7 @@ Derived columns: year, month, day, season
 
 🚀 How to Run Locally
 1. Clone the Repository
-git clone https://github.com/your-username/delhi-aqi-dashboard.git
+git clone https://github.com/akashnegi25-nuu/delhi-aqi-dashboard.git
 cd delhi-aqi-dashboard
 
 2. Install Dependencies
@@ -135,5 +135,6 @@ Add download/export buttons
 
 Akash Negi
 Data Analyst | Python | SQL | Visualization
+
 
 Feel free to connect on LinkedIn or contribute to this project!
